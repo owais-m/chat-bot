@@ -1,5 +1,4 @@
 import streamlit as st
-import numpy as np
 from openai import OpenAI
 
 st.title("Echo Bot")
