@@ -1,5 +1,5 @@
-streamlit==1.0.0
-openai==0.10.2
-requests==2.25.1
-pandas==1.2.3
-numpy==1.20.1
+streamlit
+openai
+requests
+pandas
+numpy
