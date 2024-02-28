@@ -1,5 +1,1 @@
-streamlit
-openai
-requests
-pandas
-numpy
+openai==1.12.0
